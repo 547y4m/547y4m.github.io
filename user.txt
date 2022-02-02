@@ -5,9 +5,9 @@ My favorite quote, "<span id="k">The ones who aren’t able to acknowledge their
 Konnichiwa!<!-- laglaglaglaglaglaglaglaglaglaglaglag --> <p>Your friendly neighborhood Cybersecurity and Digital Forensics Guy.</p> 
 <p> I love talking about Technology. I know a little about a lot of things, but I don't know a lot about everything.</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
 <p> I also do some blogging depends on mood and mind :D<a href="https://medium.com/@satyam29k"> blog </a>.</p><!-- delaydelaydelaydelaydelaydelaydelay -->
-<!-- <p> Tell more about yourself. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay--> -->
+<!-- <p> Tell more about yourself. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay--> 
 <p> Find me, here: <br> <a href="https://tryhackme.com/p/547y4m">TryHackMe</a><br><a href="https://www.linkedin.com/in/satyam-kanojiya">LinkedIn</a><br> <a href="https://www.instagram.com/_wand3r3rs_/">Instagram</a>.</p>
 
-<!--You can also give your email ID for contacting you<!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --><a href="Your email ID">Email</a>.-->
+<!-- You can also give your email ID for contacting you<!-- slightdelayhere-->--><!--, feel free to send me an email at<!-- longlonglongcomment --><a href="Your email ID">Email</a>.-->
 
 <p>Learning and Living Life!</p>
