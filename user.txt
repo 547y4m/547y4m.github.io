@@ -4,8 +4,6 @@
 
 <!-- laglaglaglaglaglaglaglaglaglaglaglag --> <p>Just another guy in security.</p> 
 <p>I love talking about Technology. I know a little about a lot of things, but I don't know a lot about everything.</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
-
-<!-- <p> Tell more about yourself. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay--> 
 <p> Find me, here: <br> <a href="https://tryhackme.com/p/547y4m">TryHackMe</a><br> <a href="https://www.linkedin.com/in/satyam-kanojiya">LinkedIn</a><br> <a href="https://satyam29k.medium.com/">Blog</a></p>
 
 <p>Learning and Living Life!</p>
